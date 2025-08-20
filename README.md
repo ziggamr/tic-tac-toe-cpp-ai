@@ -15,13 +15,13 @@ This project showcases my progress in learning C++ fundamentals, graphics progra
 5x5 Board with 60px cells, neatly centered on a 1920x1080 window.
 
 Two Game Modes:
+
 👤 Player vs Player (PvP) with custom name input inside the graphics window.
 🤖 Player vs AI (PvAI) featuring a basic computer opponent.
-
-Game Record System: logs the winner of each round in a text file.
 Retro BGI Graphics for a classic look and feel.
 
 🚀 How to Run
+
 **Put all files in same folder.**
 **MAKE SURE TO CREATE IT AS A PROJECT IN DEV-C++.**
 Install Dev-C++ 5.11 (32-bit compiler) or any compiler that supports graphics.h (WinBGI).
@@ -42,12 +42,15 @@ Open the project in Dev-C++.
 Compile and run the game.
 
 **Structure**
-/tic-tac-toe
- ├── main.cpp          # Game source code
- ├── graphics.h        # Required BGI graphics header
- ├── winbgim.h         # Additional graphics dependency
- ├── game_records.txt  # Stores match results
- └── README.md         # Project documentation
+
+/Tic Tac Toe
+ ├── main.cpp             # Game source code
+ ├── tic tac toe.dev      # Project File (open this to run)
+ ├── tic tac toe.layout   # Project's Layout
+ ├── graphics.h           # Required BGI graphics header
+ ├── winbgim.h            # Additional graphics dependency
+ ├── libbgi.a             # BGI Graphics library
+ └── README.md            # Project documentation
 
  **📖 Learning Outcomes**
 
