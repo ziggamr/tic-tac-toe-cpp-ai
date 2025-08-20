@@ -13,7 +13,7 @@ This project showcases my progress in learning C++ fundamentals, graphics progra
 
 ✨ Features
 
-5x5 Board with 60px cells, neatly centered on a 1920x1080 window.
+3x3 Board, neatly centered on a 1920x1080 window.
 
 Two Game Modes:
 
